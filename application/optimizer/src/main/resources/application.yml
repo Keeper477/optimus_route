@@ -1,0 +1,5 @@
+optimizer:
+  algorithm: Brute Force
+
+feign:
+  url: "http://localhost:8080/routing/v1"
