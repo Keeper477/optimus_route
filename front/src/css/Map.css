@@ -1,0 +1,8 @@
+.panel {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    background-color: bisque;
+    z-index: 1000;
+  }
+  
